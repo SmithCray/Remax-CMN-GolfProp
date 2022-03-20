@@ -1,8 +1,4 @@
-* .App {
-  background-image: "./public/Remax-CMN_2.png";
-}
-
-/* .App {
+.App {
   text-align: center;
 }
 
@@ -39,4 +35,4 @@
   to {
     transform: rotate(360deg);
   }
-} */
+}
