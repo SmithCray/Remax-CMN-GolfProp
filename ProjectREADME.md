@@ -26,23 +26,25 @@ My Proposal for 2022 Remax/Children's Miracle Network Golf Fundraiser.
 
 #
 
-### <span style="color:orange">**Cray Smith**</span>
+## <span style="color:orange">**Cray Smith**</span>
 
-<img src="assets\p2cray.png" alt="Cray Smith GitHub" width="150px">
+<img src="assets\gitCray.png" alt="Cray Smith GitHub" width="225px">
 
-GitHub Link:
+<br>
+
+<span style="color:yellow">GitHub Link:</span>
 <br>
 https://github.com/SmithCray
 
-Email:
+<span style="color:yellow">Email:</span>
 <br>
 cmsmith004@gmail.com
 
 <br>
 
-### MIT License
+### <span style="color:orange">MIT License</span>
 
-### <span style="color:orange"> Copyright (c) [2021] </span> <span style="color:green"> [Cray Smith] </span>
+### Copyright (c) [2021] <span style="color:green"> [Cray Smith] </span>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
