@@ -1,8 +1,12 @@
-# <span style="color:dc1c2e">Remax</span>/<span style="color:#dc7c8b">CMN</span>- <span style="color:green">Golf</span> Prop.
+# <span style="color:#dc1c2e">Remax</span>/<span style="color:#dc7c8b">CMN</span>- <span style="color:green">Golf</span> Prop.
+
+<br>
+
+### **Description:**
 
 My Proposal for 2022 Remax/Children's Miracle Network Golf Fundraiser.
 
-# Table of Contents
+## Table of Contents
 
 - 1.
 
@@ -12,7 +16,7 @@ My Proposal for 2022 Remax/Children's Miracle Network Golf Fundraiser.
 
 - 4.
 
-- 5.
+- 5. Author
 
 ## Meet our FRIENDS:
 
@@ -38,9 +42,7 @@ cmsmith004@gmail.com
 
 ### MIT License
 
-#
-
-## <span style="color:orange"> Copyright (c) [2021] </span> <span style="color:green"> [Cray Smith] </span>
+### <span style="color:orange"> Copyright (c) [2021] </span> <span style="color:green"> [Cray Smith] </span>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
